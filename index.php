@@ -216,9 +216,6 @@ if ("ontouchstart" in document.documentElement) {
     Of course you can wrap it in any kind of "DOM ready" event, but I was too lazy to do so ;)
     
 -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery.measurer.js"></script>
-<script type="text/javascript" src="/js/jquery.gradienttext.js"></script>
 <script src="js/impress.js"></script>
 <script>impress().init();</script>
 
